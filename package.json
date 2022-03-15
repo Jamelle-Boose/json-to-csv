@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.10.8",
+    "jest": "^27.5.1",
     "json2csv": "^5.0.6"
   }
 }
